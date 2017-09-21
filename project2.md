@@ -14,7 +14,7 @@ The goal of this project is to implement a program that manipulates images. You 
 
 For this assignment, you will be manipulating an image.
 
-You will need to download and use two classes that have been implemented for your: [Pixel.java](resources/Pixel.java) and [Picture.java](resources/Picture.java). This assignment is adapted from and these classes are implemented by Richard Wicentowski and Tia Newhall of Swarthmore.
+You will need to download and use two classes that have been implemented for your: [Pixel.java](https://raw.githubusercontent.com/CS112-F17/projects/master/resources/Pixel.java) and [Picture.java](https://raw.githubusercontent.com/CS112-F17/projects/master/resources/Picture.java). This assignment is adapted from and these classes are implemented by Richard Wicentowski and Tia Newhall of Swarthmore.
 
 **Pixels**
 
@@ -82,7 +82,7 @@ The header of the method `removePhotobomb` will look as follows:
 
 `public void removePhotobomb(String directory, String outputfile)`
 
-`directory` specifies the name of the directory where all of the input images are stored, for example `images/`. You may download and unzip [images.zip](images.zip) to test your program. Make sure it is unzipped in the directory where you will run your program.
+`directory` specifies the name of the directory where all of the input images are stored, for example `images/`. You may download and unzip [images.zip](resources/images.zip) to test your program. Make sure it is unzipped in the directory where you will run your program.
 
 `outputfile` specifies the name of the file where the resulting image should be stored.
 

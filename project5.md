@@ -1,8 +1,8 @@
 Project 5
 =========
 
-### Due Wednesday, May 3, 2017 - 5:00pm
-*May be submitted without penalty until Wednesday May 10, 2017 at 5pm.*
+### Due Wednesday, November 29, 2017 - 5:00pm
+*May be submitted without penalty until Wednesday Dec 6, 2017 at 5pm.*
 
 For your final project you have two choices. 
 
@@ -23,8 +23,8 @@ Option 2 is a more difficult project that will require you to learn some new thi
 
 1. For this assignment, you will submit all Java files you implemented for this program. The specific files you submit will depend on the option you choose and the design you implement, but you will need to be certain that all files to compile and run your program are in your `project5` directory.
  
-2. Make sure your code follows all requirements in the [Style Guidelines](https://github.com/CS112-S17/notes/blob/master/style.md).
+2. Make sure your code follows all requirements in the [Style Guidelines](https://github.com/CS112-F17/notes/blob/master/style.md).
 
-3. Follow the instructions in the [SVN Guide](https://github.com/CS112-S17/notes/blob/master/svn_guide.md) for submitting your solution by the deadline.
+3. Follow the instructions in the [SVN Guide](https://github.com/CS112-F17/notes/blob/master/svn_guide.md) for submitting your solution by the deadline.
 
 4. Make sure you have submitted your work in an SVN directory: `https://www.cs.usfca.edu/svn/<username>/cs112/project5`
